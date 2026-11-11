@@ -21,6 +21,14 @@ See `plan.md` for strategy and TODOs.
 > Instructions will be filled in as the projects are built.
 
 **CS 545**
+This notebook requires the use of the TIMIT data set which is not included in this repo, but can be found [here](https://academictorrents.com/details/34e2b78745138186976cbc27939b1b34d18bd5b3). Data (three folders titled DOC, TEST and TRAIN) should be placed in the subfolder 'data' like:
+
+> root
+> |- data
+>     |- DOC
+>     |- TEST
+>     |- TRAIN
+
 ```bash
 # cd 545/
 # jupyter notebook forced_alignment.ipynb
