@@ -45,3 +45,5 @@ Raw audio + transcript
 ```
 
 The 545 project is the **upstream pipeline** — it solves the hard problem of *when* each sound happens. The 542 project is the **downstream consumer** — it asks *what that timing pattern means* emotionally. The 542 project can run independently using ESD's built-in labels as a fallback if the 545 aligner isn't ready.
+
+All Rights Reserved Sky Vercauteren November-December 2026
