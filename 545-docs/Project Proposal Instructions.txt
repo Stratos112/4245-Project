@@ -1,0 +1,19 @@
+The course project is your opportunity to learn about a deep learning topic that is not covered in the course.  Your final deliverable will be a Jupyter notebook that explains the topic (e.g. an architecture) provides intuition on how it works, and demonstrates its benefit, similarly to how we present every deep learning model in this course.  
+
+Your proposal should describe the deep learning topic you wish to address in your project and what interests you about it.  Provide clear steps for doing the project, and a timeline for achieving them.  It is highly recommended that you speak with your instructor to determine the feasibility of your project, and whether the topic meets the expectations of this course.
+
+Example topics include:
+
+    Graph neural networks:  enable the application of deep learning to graph structured data.  Application areas can include molecular property prediction.
+    Contrastive learning applied e.g. in multi-modal learning
+    Vision transformers:  applying the transformer architecture to computer vision
+    Mixture of Experts:  a powerful technique for breaking down complex tasks; used in current LLMs
+    Knowledge distillation:  compress a large model into a smaller model that retains most of its accuracy
+
+You can work on the project in pairs, and the proposal should describe team responsibilities. The proposal should be between one and two pages and submitted as a pdf file.
+
+When evaluating your proposal we will consider the following:
+
+    You have chosen a relevant topic with an appropriate level of difficulty.
+    Clear plan (what are the tasks involved).
+    Clear team member responsibilities (who will do what).
